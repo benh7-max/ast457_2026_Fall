@@ -339,7 +339,7 @@ substitute or held on Zoom; watch your email for the arrangements each week.
 - **Oct 6, 8** — Building models, model comparison and the Bayes factor, effective sampling techniques, estimating
   parameters & uncertainties, posterior predictive checks, other MCMC
   wizardry (ICVG Ch. 8). **Midterm posted Oct 8.**
-- **Oct 13, 15** *(travel)* — Visualization as verification: plots that catch broken
+- **Oct 13, 15** *(travel; no class Oct 13, cancelled; its material moves to Oct 15)* — Visualization as verification: plots that catch broken
   models before referees do (VdP Ch. 4). **Midterm due Oct 14 by Noon.**
 - **Oct 20, 22** — Time-series analysis (ICVG Ch. 10, FB Ch. 11), Gaussian
   processes (ICVG Ch. 8.10, readings from Rasmussen & Williams)
