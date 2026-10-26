@@ -36,7 +36,7 @@ Short, written, closed-everything, at the start of class, roughly every other we
 |---|---|---|
 | 1 | Tue Sep 8 | done; TA-proctored (GN traveling). +5 extra credit for El-Badry colloquium notes, due Noon Tue Sep 15 |
 | 2 | Tue Sep 22 | done; Days 5-8 (estimators, Cramér-Rao, MLE, χ², model comparison) |
-| 3 | Tue Oct 20 (tentative) | after the midterm; Bayes and MCMC (Days 12-14) |
+| 3 | Thu Oct 22 | start of class; after the midterm; Bayes and MCMC (Days 12-14) |
 | 4 | Tue Nov 3 | TA-proctored (GN on Zoom) |
 | 5 | Thu Nov 12 (tentative) | |
 | 6 | Tue Dec 1 (tentative) | |
