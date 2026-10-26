@@ -341,8 +341,10 @@ substitute or held on Zoom; watch your email for the arrangements each week.
   wizardry (ICVG Ch. 8). **Midterm posted Oct 8.**
 - **Oct 13, 15** *(travel; no class Oct 13, cancelled; its material moves to Oct 15)* — Visualization as verification: plots that catch broken
   models before referees do (VdP Ch. 4). **Midterm due Oct 14 by Noon.**
-- **Oct 20, 22** — Time-series analysis (ICVG Ch. 10, FB Ch. 11), Gaussian
-  processes (ICVG Ch. 8.10, readings from Rasmussen & Williams)
+- **Oct 20, 22** — Visualization to communicate (Oct 20, VdP Ch. 4), then
+  time-series analysis (ICVG Ch. 10, FB Ch. 11) and Gaussian processes (ICVG
+  Ch. 8.10, readings from Rasmussen & Williams) from Oct 22. **Quiz 3 opens class
+  on Thu Oct 22** (Bayes and MCMC, Days 12–14).
 - **Oct 27, 29** — Probabilistic Graphical Models (PGMs) & hierarchical Bayes
   (readings from Hilbe, de Souza & Ishida)
 - **Nov 3, 5** *(travel; on Zoom, the TA proctors Quiz 4 on Tue)* — The ABCs of not having a likelihood function: ABC and
